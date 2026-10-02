@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Daily study progress</title>
+  <desc id="desc">A student studies at a desk beside a calendar with completed checkmarks.</desc>
+  <rect width="800" height="600" fill="#edf5f1"/>
+  <path d="M0 438h800v162H0z" fill="#d8e9df"/>
+  <rect x="48" y="55" width="232" height="220" rx="14" fill="#fff"/>
+  <rect x="61" y="68" width="206" height="194" rx="8" fill="#bde5eb"/>
+  <circle cx="220" cy="103" r="25" fill="#f4bd4f"/>
+  <path d="m62 218 58-64 42 44 38-51 67 72v43H62z" fill="#71b7a0"/>
+  <path d="M164 68v194M61 164h206" stroke="#fff" stroke-width="9"/>
+  <rect x="550" y="52" width="198" height="225" rx="14" fill="#fff"/>
+  <path d="M550 66a14 14 0 0 1 14-14h170a14 14 0 0 1 14 14v43H550z" fill="#17304f"/>
+  <path d="M578 137h26m24 0h26m24 0h26m24 0h20M578 176h26m24 0h26m24 0h26m24 0h20M578 215h26m24 0h26m24 0h26m24 0h20" stroke="#d6e2f3" stroke-width="8" stroke-linecap="round"/>
+  <path d="m574 136 7 7 13-16m-20 48 7 7 13-16m-20 48 7 7 13-16" fill="none" stroke="#2bb59b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M292 415v-92a30 30 0 0 1 30-30h102a30 30 0 0 1 30 30v92" fill="#f4bd4f"/>
+  <rect x="170" y="408" width="460" height="28" rx="10" fill="#8c573d"/>
+  <path d="M205 436v116m390-116v116" stroke="#8c573d" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="373" cy="229" r="47" fill="#c9825d"/>
+  <path d="M327 224c1-39 20-60 49-60 30 0 47 21 47 54-17-4-28-16-34-28-15 19-36 31-62 34" fill="#302b2a"/>
+  <path d="M349 272h48l42 76-21 62h-92l-20-62z" fill="#e87861"/>
+  <path d="M350 299 310 355l54 41m34-97 43 49-34 35" fill="none" stroke="#c9825d" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M331 394h104v14H331z" fill="#fff"/>
+  <path d="M347 399h32m11 0h18" stroke="#71b7a0" stroke-width="4" stroke-linecap="round"/>
+  <rect x="671" y="348" width="48" height="60" rx="6" fill="#f4bd4f"/>
+  <path d="M664 348h63m-48 0-8-35m24 35 12-43m-38 23-19-16m52 9 22-18" stroke="#347c68" stroke-width="8" stroke-linecap="round"/>
+</svg>
